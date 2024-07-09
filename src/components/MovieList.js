@@ -2,7 +2,7 @@ import React from 'react'
 import MovieCart from './MovieCart'
 
 const MovieList = ({title , movies}) => {
-    console.log(movies);
+  
   return ( 
     <div className='px-2 '>
     <h1 className='text-3xl py-4 text-white'>{title}</h1>
