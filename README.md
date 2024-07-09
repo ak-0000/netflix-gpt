@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/ak-0000/netflix-clone.git
 cd netflix-clone
 Install dependencies:
 
